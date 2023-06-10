@@ -1,3 +1,3 @@
-import App from './app'
+import app from './app.js'
 
-App.listen(3004)
+app.listen(3004)
